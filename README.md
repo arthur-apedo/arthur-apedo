@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hey there<br>I am Arthur, I am currently studying to be a Full Stack Software <br>Developer.<br><br>I am into <br>Web and Android Development, Machine Learning and AI, <br>SEO, Micro Services, System Design, Competitive Programming & Robotics<br><br>I Look forward to working with you
+<br>I am Arthur, I am currently studying to be a Full Stack Software <br>Developer.<br><br>I am into <br>Web and Android Development, Machine Learning and AI, <br>SEO, Micro Services, System Design, Competitive Programming & Robotics<br><br>I Look forward to working with you
 
 
 ## 🌐 Socials:
