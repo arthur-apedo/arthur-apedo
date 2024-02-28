@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <br>I am Arthur, I am currently studying to be a Full Stack Software <br>Developer.<br><br>I am into <br>Web and Android Development, Machine Learning and AI, <br>SEO, Micro Services, System Design, Competitive Programming & Robotics<br><br>I Look forward to working with you
 
+<!--START_SECTION:waka-->
+No Stats
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thee_apedo_guy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thee_apedo_guy) 
