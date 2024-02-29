@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C     17 mins         ███████████████████████▓░   94.66 %
+INI   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
