@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C     17 mins         ███████████████████████▓░   94.66 %
-INI   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+C       33 mins         ███████████████████████▒░   93.52 %
+Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+INI     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
