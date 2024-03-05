@@ -4,19 +4,15 @@
 **creeds-knight/creeds-knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 # 💫 About Me:
-<br>I am Arthur, I am currently studying to be a Full Stack Software <br>Developer.<br><br>I am into <br>Web and Android Development, Machine Learning and AI, <br>SEO, Micro Services, System Design, Competitive Programming & Robotics<br><br>I Look forward to working with you
+- 🔭 I’m currently working on the backend of a social platform
+- 🌱 I’m currently learning FullStack web development with ALX Holberton Software Engineering Programme
+- 👯 I’m looking to collaborate on Web Development and Data Driven Projects
+- 🤔 I’m looking for help with AI and Machine Learning
+- 📫 How to reach me: apedoarthur21@gmail.com, +256773264691 | +256757779675
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Bazzinga
 
 <!--START_SECTION:waka-->
 
@@ -43,13 +39,13 @@ INI      0 secs          ░░░░░░░░░░░░░░░░░░�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=creeds-knight&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ For your day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=creeds-knight&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 I think Memes are fun
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
