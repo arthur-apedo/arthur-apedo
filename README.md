@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center" style="border-radius:50%;width:250px;height:250px">
+    <img src="WhatsApp Image 2024-02-15 at 6.31.40 PM (1).jpeg" alt="Profile Picture arthur apedo" style="border-radius:50%;width:250px;height:250px" /><br>
+    <span align="center">Apedo Arthur</span><br>
+    <small align="center" font-size="15"></small>
+</p>
 
 <!--
 **creeds-knight/creeds-knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
