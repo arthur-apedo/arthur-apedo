@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   20 hrs 29 mins  ████████████████████████░   95.44 %
-Puppet   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Other    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-SQL      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python   14 hrs 20 mins  ███████████████████████▓░   94.28 %
+Puppet   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
