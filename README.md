@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python    10 hrs 32 mins  █████████████████████▓░░░   87.18 %
-Puppet    33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Other     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-sudoers   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Python    3 hrs 17 mins   █████████████████░░░░░░░░   67.95 %
+Puppet    33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Other     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Bash      16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+sudoers   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
