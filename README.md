@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Puppet     5 mins          ███████████▓░░░░░░░░░░░░░   46.49 %
-Markdown   4 mins          ██████████░░░░░░░░░░░░░░░   40.57 %
-Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Python     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Puppet     6 mins          ███████████████░░░░░░░░░░   60.21 %
+Markdown   4 mins          ██████████░░░░░░░░░░░░░░░   39.79 %
 ```
 
 <!--END_SECTION:waka-->
