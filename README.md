@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      21 mins         █████████████░░░░░░░░░░░░   51.39 %
-Puppet     14 mins         █████████░░░░░░░░░░░░░░░░   36.20 %
-Markdown   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other    21 mins         ██████████████▒░░░░░░░░░░   57.83 %
+Puppet   14 mins         ██████████▒░░░░░░░░░░░░░░   40.74 %
+INI      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
