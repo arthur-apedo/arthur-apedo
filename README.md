@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 5 mins    █████████████████▒░░░░░░░   69.63 %
-Other        37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-Puppet       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-conf         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JavaScript   2 hrs 5 mins    ███████████████▒░░░░░░░░░   61.77 %
+Vim Script   29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Other        21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Python       21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+conf         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
