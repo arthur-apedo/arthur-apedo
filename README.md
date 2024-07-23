@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 7 mins   ██████████████▓░░░░░░░░░░   58.75 %
-JavaScript   6 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   35.61 %
-Other        1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Python       8 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.77 %
+JavaScript   7 hrs 2 mins    ███████████░░░░░░░░░░░░░░   43.63 %
+Other        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
