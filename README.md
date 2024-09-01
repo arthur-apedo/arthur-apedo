@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.28 %
-Python       2 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   35.66 %
-JSON         49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript   2 hrs 36 mins   ████████████▒░░░░░░░░░░░░   48.68 %
+Python       2 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   43.22 %
+JSON         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
