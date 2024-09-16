@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        33 mins         ██████████▒░░░░░░░░░░░░░░   41.05 %
-Python     30 mins         █████████▒░░░░░░░░░░░░░░░   37.56 %
-Modelica   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-HTML       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-INI        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
