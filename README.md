@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   44.76 %
-HTML         2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-YAML         1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Docker       1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+JavaScript   6 hrs 49 mins   ████████████▒░░░░░░░░░░░░   49.56 %
+YAML         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Docker       1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Markdown     1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Bash         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
