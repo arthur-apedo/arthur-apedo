@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       46 mins         ████████░░░░░░░░░░░░░░░░░   31.56 %
-Bash         35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-YAML         29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-JavaScript   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Text         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
