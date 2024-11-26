@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   3 hrs 17 mins   █████████████████▓░░░░░░░   70.33 %
+XML      1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+Other    17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
