@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              42 hrs 24 mins  █████████████████████▓░░░   86.31 %
-XML               2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Python            2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Dart              41 hrs 16 mins  █████████████████████░░░░   84.24 %
+Python            3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+XML               2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 YAML              1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 Groovy            17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
