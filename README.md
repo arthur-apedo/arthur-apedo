@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              41 hrs 16 mins  █████████████████████░░░░   84.24 %
-Python            3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-XML               2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-YAML              1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Groovy            17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Dart              38 hrs 37 mins  ████████████████████▒░░░░   81.69 %
+Python            4 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+XML               2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+YAML              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Groovy            17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
