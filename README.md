@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              3 hrs 47 mins   ████████████████▓░░░░░░░░   66.01 %
-YAML              43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Groovy            35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Git Config        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Java Properties   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Dart              3 hrs 18 mins   ███████████████▓░░░░░░░░░   62.87 %
+YAML              43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Groovy            35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Git Config        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Java Properties   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
