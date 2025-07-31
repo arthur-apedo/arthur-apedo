@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            35 mins         █████████▓░░░░░░░░░░░░░░░   38.07 %
-YAML              21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-Dart              13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Java Properties   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-SQL               10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
