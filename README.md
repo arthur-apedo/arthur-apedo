@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart    17 mins         ███████████░░░░░░░░░░░░░░   43.34 %
+YAML    12 mins         ████████░░░░░░░░░░░░░░░░░   32.48 %
+HTML    5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+CSS     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
