@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         21 mins         ██████████▓░░░░░░░░░░░░░░   42.03 %
-Bash         17 mins         ████████▒░░░░░░░░░░░░░░░░   33.75 %
-Docker       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Caddyfile    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-INI          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+HTML         1 hr 38 mins    ████████████████████░░░░░   80.55 %
+INI          15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Docker       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Caddyfile    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
