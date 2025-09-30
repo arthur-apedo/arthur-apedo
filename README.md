@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   57 mins         ████████████░░░░░░░░░░░░░   48.58 %
-C++      45 mins         █████████▓░░░░░░░░░░░░░░░   38.58 %
-JSON     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
