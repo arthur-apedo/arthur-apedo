@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML        2 mins          ████████████████▒░░░░░░░░   65.54 %
-INI         0 secs          ███████░░░░░░░░░░░░░░░░░░   27.44 %
-Caddyfile   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
