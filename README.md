@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   53 mins         ████████████░░░░░░░░░░░░░   47.61 %
-Dart         27 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-YAML         16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Bash         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
