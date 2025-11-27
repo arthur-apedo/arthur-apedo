@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   20 mins         █████████████████░░░░░░░░   67.52 %
-Dart         9 mins          ████████░░░░░░░░░░░░░░░░░   31.85 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TOML         27 mins         ███████████▓░░░░░░░░░░░░░   46.12 %
+JavaScript   20 mins         █████████░░░░░░░░░░░░░░░░   35.47 %
+Dart         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
