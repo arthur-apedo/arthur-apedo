@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       42 mins         ████████████████░░░░░░░░░   64.54 %
-SQL          23 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python       2 hrs 2 mins    █████████████████████░░░░   83.90 %
+SQL          23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
