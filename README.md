@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 hrs 58 mins   ████████████████████████▒   97.11 %
-CSV      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Python       3 hrs 30 mins   ████████████████▒░░░░░░░░   65.78 %
+TypeScript   1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
