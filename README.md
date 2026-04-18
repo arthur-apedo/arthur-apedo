@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      27 mins               ██████████▓░░░░░░░░░░░░░░   43.02 %
-Dart       19 mins               ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-Bash       6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Markdown   6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-YAML       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other      9 mins                ███████████████▒░░░░░░░░░   61.10 %
+Markdown   6 mins                █████████▓░░░░░░░░░░░░░░░   38.90 %
 ```
 
 <!--END_SECTION:waka-->
